@@ -1,6 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-./rest-api/src/constants.ts
 
 # compiled output
 /dist
@@ -45,3 +44,4 @@ testem.log
 Thumbs.db
 
 server/dist
+rest-api/src/constants.ts
